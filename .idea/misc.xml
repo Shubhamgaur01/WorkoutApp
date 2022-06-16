@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/circular_progress_bar.xml" value="0.10033782958984376" />
+        <entry key="app/src/main/res/drawable/circular_progress_gray.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.12642681884765614" />
+        <entry key="app/src/main/res/drawable/drawable_unit_tab_selector.xml" value="0.10219879150390626" />
+        <entry key="app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1155" />
+        <entry key="app/src/main/res/drawable/ic_circular_finish.xml" value="0.141" />
+        <entry key="app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.123" />
+        <entry key="app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.141" />
+        <entry key="app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.141" />
+        <entry key="app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.16604766845703126" />
+        <entry key="app/src/main/res/layout/activity_bmi.xml" value="0.2926899065290178" />
+        <entry key="app/src/main/res/layout/activity_exericise.xml" value="0.30938415527343754" />
+        <entry key="app/src/main/res/layout/activity_finish.xml" value="0.2019872029622396" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2495178222656249" />
+        <entry key="app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.25628204345703126" />
+        <entry key="app/src/main/res/layout/item_exercise_status.xml" value="1.007952372233073" />
+        <entry key="app/src/main/res/layout/item_history_row.xml" value="0.32252082271852356" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
